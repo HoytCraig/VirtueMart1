@@ -1,0 +1,16 @@
+Thanks to the new Themes features in Virtuemart we can offer you for the first time a custom Virtuemart theme! This theme contains our own customized Virtuemart files. These files are shown on this demo and it is highly recommended that you implement them.
+
+
+How To Setup The Theme:
+
+    Download the file shape5_aluma_photography_vm_10.zip from the Aluma Photography download section
+    Extract the contents of that zip file to components/com_virtuemart/themes/
+    Login to the backend of Joomla
+    Navigate to Components/Virtuemart
+    On the Virtuemart Menu click Admin/Configuration
+    Click the Site tab
+    Under the drop down Select The Theme For Your Shop select s5_aluma_photography
+    Right below that area select managed for Category Template and flypage.tpl for Flypage
+    Click Save in the upper right
+    Navigate back to the same drop down and click Configuration just beside where it says s5_aluma_photography
+    Adjust the settings as desired. We recommend leaving the settings how they are for design reasons. Click Save when you're done
